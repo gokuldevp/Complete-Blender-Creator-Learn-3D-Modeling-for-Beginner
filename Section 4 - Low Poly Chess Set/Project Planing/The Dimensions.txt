@@ -1,0 +1,15 @@
+==> The King 
+-height = 9.5cm
+-base = 40-50% of height(3.8cm-4.75cm)
+
+==> The Chess Board
+-King base is 75% of the square.
+-Pawn base is 50% of the square.
+-Square is 5cm - 6.5cm.
+-ie, Pawn base is 2.5cm-3.25cm.
+
+
+==> The Final Dimensions
+- King (height = 9.5cm, base = 4.5cm)
+- Pawn (heigth = 7cm, base = 3cm)
+- other Positions (heigth = 8.25cm, base = 4cm)
